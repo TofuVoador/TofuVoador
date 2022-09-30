@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @TofuVoador
-- 👀 I’m interested in Gaming, Music and Programming
-- 🌱 I’m currently learning PHP, HTML and CSS
-- 📫 How to reach me: iagamuk.gus@gmail.com
+<h1>WELCOME!</h1>
+<h2>I’m @TofuVoador</h2>
 
-<!---
-TofuVoador/TofuVoador is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Gaming, Music and Programming
+
+- Currently learning PHP, HTML and CSS
+
+- Email: iagamuk.gus@gmail.com
+- Linkedin: 
