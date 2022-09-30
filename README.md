@@ -6,4 +6,4 @@
 - Currently learning PHP, HTML and CSS
 
 - Email: iagamuk.gus@gmail.com
-- Linkedin: 
+- Linkedin: https://www.linkedin.com/in/gustavo-amamia-kumagai-293b421a3
