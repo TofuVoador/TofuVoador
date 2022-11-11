@@ -3,7 +3,8 @@
 
 - Gaming, Music and Programming
 
-- Currently learning PHP, HTML and CSS
+- Main Tecnologies: PHP, HTML, CSS
+- Currently learning: JavaScript, Laravel, React
 
 - Email: iagamuk.gus@gmail.com
 - Linkedin: https://www.linkedin.com/in/gustavo-amamia-kumagai-293b421a3
