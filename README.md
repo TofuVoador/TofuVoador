@@ -10,10 +10,17 @@
 <h3>Aprendendo agora:</h3>
 
 - JavaScript
-- Laravel
+- Node
 - React
+
+<h3>Interesses:</h3>
+
+- Front-End
+- Gerência de Projetos
+- Análise de Requisios
 
 <h3>Contato:</h3>
 
 - Email: iagamuk.gus@gmail.com
-- Linkedin: https://www.linkedin.com/in/gustavo-amamia-kumagai-293b421a3
+- [Linkedin](https://www.linkedin.com/in/gustavo-amamia-kumagai-293b421a3)
+- [Whatsapp](https://wa.me/554488150190)
