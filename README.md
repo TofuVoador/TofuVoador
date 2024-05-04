@@ -11,7 +11,7 @@
 
 - JavaScript
 - Node
-- React
+- NextJS
 
 <h3>Interesses:</h3>
 
